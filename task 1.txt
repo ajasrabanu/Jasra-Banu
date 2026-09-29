@@ -1,0 +1,44 @@
+
+
+---
+
+*DOCUMENT 1 - COPY PANNIKKA:*
+Streamlining IT Procurement
+Automating Standard Laptop Orders with Flow Designer
+
+=== PROBLEM STATEMENT ===
+Current IT procurement process lacks efficiency and automation, 
+resulting in delays in handling standard laptop orders.
+
+=== TASK INITIATION ===
+Milestone 1: Flow
+Activity 1: Create a Flow to Create Catalog task
+
+STEPS:
+1. Open ServiceNow
+2. All >> Search for Flow Designer
+3. Click Flow Designer under Process Automation
+4. Click New and select Flow
+5. Flow Properties:
+   Flow Name = Standard laptop task
+   Application = Global
+   Run user = System user
+   Click Submit
+
+6. Add a trigger > Search Service Catalog > Done
+
+7. Under Actions > Add an action > Search Create Catalog Task
+   - Action = Create Catalog Task
+   - Request Item = Drag and drop Requested Item Record
+   - Table = Catalog Task (auto)
+   - Short Description = Laptop need to Configured
+   - Add field value:
+     Description = Laptop need to Configured
+     Assignment group = Hardware
+     Approval = Approved
+   - Click Done
+
+8. Save the Flow
+9. Click Activate > Activate again
+---
+

@@ -1,0 +1,16 @@
+DOCUMENT 2 - SEPARATE
+
+Milestone 2: Flow Assignment
+Activity 1: Flow Assignment to Standard Laptop Service Catalog
+
+STEPS:
+1. Open ServiceNow.
+2. Click on All >> Search for Maintain Items.
+3. Select Maintain Items.
+4. Under the Name field, search for 'Standard Laptop'
+5. Select that record.
+6. Under that record, select Process Engine.
+7. Remove the remaining automations.
+8. Add Flow.
+9. Add the flow created with name 'Standard Laptop Task'.
+10. Click on the menu to Save the record.

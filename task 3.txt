@@ -1,0 +1,32 @@
+Milestone 3 :  Service Catalog 
+
+Activity 1: Service Catalog for placing order and get Approval
+
+Click on All >> Search for “ Service Catalog ”.
+Click on Service Catalog >> click on Hardware.
+Scroll a bit to find the “ Standard Laptop ”  click on that.
+After that click on “ Order Now ” to place the request.
+
+Now we will see the Order status 
+In that click on the Request Number 
+
+It will open the Requested number record.
+Scroll down Click on the Approvers Section.
+
+Right Click on the Record to see config in that Click on the Approve.
+
+Then click on the Requested item Section 
+Open that Requested Item record
+
+Scroll down to the “ Catalog tasks ” Section  
+ Open the record to see the updated status of the record with Short description and Assigned group.
+
+
+
+
+
+
+
+Conclusion : 
+By automating the standard laptop procurement process with ServiceNow's Flow Designer, the project effectively addresses inefficiencies and reduces manual overhead. This streamlined workflow ensures timely configuration of laptops, minimizes user wait times, and enhances overall productivity within the IT department. The implementation of this automated solution not only optimizes resource allocation but also significantly improves the user experience by providing a seamless and efficient procurement process.
+
